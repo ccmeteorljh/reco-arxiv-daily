@@ -45,6 +45,7 @@ jobs:
         if: success()
         env:
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          FEISHU_WEBHOOK_URL_2: ${{ secrets.FEISHU_WEBHOOK_URL_2 }}
         run: |
           pip3 install -q requests
           python3 .github/scripts/notify_feishu.py

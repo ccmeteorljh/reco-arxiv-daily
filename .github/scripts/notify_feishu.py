@@ -19,9 +19,15 @@ except ImportError:
 
 
 def main() -> None:
-    url = os.environ.get("FEISHU_WEBHOOK_URL", "").strip()
-    if not url:
-        print("FEISHU_WEBHOOK_URL not set, skip Feishu notification.")
+    # 支持多个 Feishu 机器人：FEISHU_WEBHOOK_URL, FEISHU_WEBHOOK_URL_2, ...
+    urls = []
+    for key in ("FEISHU_WEBHOOK_URL", "FEISHU_WEBHOOK_URL_2"):
+        val = os.environ.get(key, "").strip()
+        if val:
+            urls.append(val)
+
+    if not urls:
+        print("FEISHU_WEBHOOK_URL / FEISHU_WEBHOOK_URL_2 not set, skip Feishu notification.")
         sys.exit(0)
 
     # 优先使用为微信/飞书定制的 wechat.md，不存在时退回 daily_new.md
@@ -67,10 +73,15 @@ def main() -> None:
         },
     }
 
-    resp = requests.post(url, json=payload, timeout=15)
-    print(resp.status_code, resp.text)
-    if resp.status_code != 200:
-        # Feishu webhooks 返回非 200 说明发送失败，显式退出 1 让 workflow 标红
+    any_failed = False
+    for url in urls:
+        resp = requests.post(url, json=payload, timeout=15)
+        print(f"[Feishu] POST {url} -> {resp.status_code} {resp.text}")
+        if resp.status_code != 200:
+            any_failed = True
+
+    if any_failed:
+        # 任意一个 Feishu webhook 返回非 200 说明发送失败，显式退出 1 让 workflow 标红
         sys.exit(1)
 
 
