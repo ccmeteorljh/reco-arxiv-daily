@@ -1,11 +1,14 @@
 ## Daily New Papers
 
-> Updated on 2026.03.09
+> Updated on 2026.03.10
 
 ## Recommender System
 
 |Publish Date|Title|Tag|Authors|PDF|
 |---|---|---|---|---|
+|**2026-03-06**|**MLLMRec-R1: Incentivizing Reasoning Capability in Large Language Models for Multimodal Sequential Recommendation**|<img src="https://img.shields.io/badge/-LLM-2c4a78?style=flat-square&color=%232c4a78" width="56" alt="LLM" />|Yu Wang et.al.|[2603.06243](http://arxiv.org/abs/2603.06243)|
+|**2026-03-06**|**Balancing Domestic and Global Perspectives: Evaluating Dual-Calibration and LLM-Generated Nudges for Diverse News Recommendation**|<img src="https://img.shields.io/badge/-LLM-2c4a78?style=flat-square&color=%232c4a78" width="56" alt="LLM" />|Ruixuan Sun et.al.|[2603.05780](http://arxiv.org/abs/2603.05780)|
+|**2026-03-05**|**The DSA's Blind Spot: Algorithmic Audit of Advertising and Minor Profiling on TikTok**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Sara Solarova et.al.|[2603.05653](http://arxiv.org/abs/2603.05653)|
 |**2026-03-05**|**Debiasing Sequential Recommendation with Time-aware Inverse Propensity Scoring**|<img src="https://img.shields.io/badge/-Seq-5a4a6a?style=flat-square&color=%235a4a6a" width="56" alt="Seq" />|Sirui Huang et.al.|[2603.04986](http://arxiv.org/abs/2603.04986)|
 |**2026-03-05**|**Give Users the Wheel: Towards Promptable Recommendation Paradigm**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Fuyuan Lyu et.al.|[2602.18929](http://arxiv.org/abs/2602.18929)|
 |**2026-03-04**|**Turning Trust to Transactions: Tracking Affiliate Marketing and FTC Compliance in YouTube's Influencer Economy**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Chen Sun et.al.|[2603.04383](http://arxiv.org/abs/2603.04383)|
@@ -103,7 +106,4 @@
 |**2026-02-13**|**Awakening Dormant Users: Generative Recommendation with Counterfactual Functional Role Reasoning**|<img src="https://img.shields.io/badge/-GR-1e5c3a?style=flat-square&color=%231e5c3a" width="56" alt="GR" />|Huishi Luo et.al.|[2602.13134](http://arxiv.org/abs/2602.13134)|
 |**2026-02-13**|**RGAlign-Rec: Ranking-Guided Alignment for Latent Query Reasoning in Recommendation Systems**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Junhua Liu et.al.|[2602.12968](http://arxiv.org/abs/2602.12968)|
 |**2026-02-13**|**Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback**|<img src="https://img.shields.io/badge/-LLM-2c4a78?style=flat-square&color=%232c4a78" width="56" alt="LLM" />|Sein Kim et.al.|[2602.12612](http://arxiv.org/abs/2602.12612)|
-|**2026-02-13**|**RQ-GMM: Residual Quantized Gaussian Mixture Model for Multimodal Semantic Discretization in CTR Prediction**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Ziye Tong et.al.|[2602.12593](http://arxiv.org/abs/2602.12593)|
-|**2026-02-13**|**CAPTS: Channel-Aware, Preference-Aligned Trigger Selection for Multi-Channel Item-to-Item Retrieval**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Xiaoyou Zhou et.al.|[2602.12564](http://arxiv.org/abs/2602.12564)|
-|**2026-02-13**|**Reasoning to Rank: An End-to-End Solution for Exploiting Large Language Models for Recommendation**|<img src="https://img.shields.io/badge/-LLM-2c4a78?style=flat-square&color=%232c4a78" width="56" alt="LLM" />|Kehan Zheng et.al.|[2602.12530](http://arxiv.org/abs/2602.12530)|
 
