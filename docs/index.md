@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommender System
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-09**|**ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems**|Pierre Lubitzsch et.al.|[2603.08341](http://arxiv.org/abs/2603.08341)|
+|**2026-03-08**|**Verifiable Reasoning for LLM-based Generative Recommendation**|Xinyu Lin et.al.|[2603.07725](http://arxiv.org/abs/2603.07725)|
+|**2026-03-08**|**Deep Research for Recommender Systems**|Kesha Ou et.al.|[2603.07605](http://arxiv.org/abs/2603.07605)|
+|**2026-03-07**|**Efficient Personalized Reranking with Semi-Autoregressive Generation and Online Knowledge Distillation**|Kai Cheng et.al.|[2603.07107](http://arxiv.org/abs/2603.07107)|
+|**2026-03-07**|**Multi-TAP: Multi-criteria Target Adaptive Persona Modeling for Cross-Domain Recommendation**|Daehee Kang et.al.|[2603.07086](http://arxiv.org/abs/2603.07086)|
 |**2026-03-06**|**MLLMRec-R1: Incentivizing Reasoning Capability in Large Language Models for Multimodal Sequential Recommendation**|Yu Wang et.al.|[2603.06243](http://arxiv.org/abs/2603.06243)|
 |**2026-03-06**|**Balancing Domestic and Global Perspectives: Evaluating Dual-Calibration and LLM-Generated Nudges for Diverse News Recommendation**|Ruixuan Sun et.al.|[2603.05780](http://arxiv.org/abs/2603.05780)|
 |**2026-03-05**|**Give Users the Wheel: Towards Promptable Recommendation Paradigm**|Fuyuan Lyu et.al.|[2602.18929](http://arxiv.org/abs/2602.18929)|
@@ -87,12 +92,14 @@ layout: default
 |**2026-02-23**|**Iconographic Classification and Content-Based Recommendation for Digitized Artworks**|Krzysztof Kutt et.al.|[2602.19698](http://arxiv.org/abs/2602.19698)|
 |**2026-02-23**|**HiGR: Efficient Generative Slate Recommendation via Hierarchical Planning and Multi-Objective Preference Alignment**|Yunsheng Pang et.al.|[2512.24787](http://arxiv.org/abs/2512.24787)|
 |**2026-02-23**|**TASER: Table Agents for Schema-guided Extraction and Recommendation**|Nicole Cho et.al.|[2508.13404](http://arxiv.org/abs/2508.13404)|
+|**2026-02-23**|**T-REX: Transformer-Based Category Sequence Generation for Grocery Basket Recommendation**|Soroush Mokhtari et.al.|[2603.06631](http://arxiv.org/abs/2603.06631)|
 |**2026-02-22**|**SplitLight: An Exploratory Toolkit for Recommender Systems Datasets and Splits**|Anna Volodkevich et.al.|[2602.19339](http://arxiv.org/abs/2602.19339)|
 |**2026-02-22**|**Generative Reasoning Re-ranker**|Mingfu Liang et.al.|[2602.07774](http://arxiv.org/abs/2602.07774)|
 |**2026-02-22**|**Denoising Neural Reranker for Recommender Systems**|Wenyu Mao et.al.|[2509.18736](http://arxiv.org/abs/2509.18736)|
 |**2026-02-22**|**Sequential Data Augmentation for Generative Recommendation**|Geon Lee et.al.|[2509.13648](http://arxiv.org/abs/2509.13648)|
 |**2026-02-21**|**Towards Reliable Negative Sampling for Recommendation with Implicit Feedback via In-Community Popularity**|Chen Chen et.al.|[2602.18759](http://arxiv.org/abs/2602.18759)|
 |**2026-02-21**|**CaliCausalRank: Calibrated Multi-Objective Ad Ranking with Robust Counterfactual Utility Optimization**|Xikai Yang et.al.|[2602.18786](http://arxiv.org/abs/2602.18786)|
+|**2026-02-21**|**Exploration Space Theory: Formal Foundations for Prerequisite-Aware Location-Based Recommendation**|Madjid Sadallah et.al.|[2603.06624](http://arxiv.org/abs/2603.06624)|
 |**2026-02-20**|**NutriOrion: A Hierarchical Multi-Agent Framework for Personalized Nutrition Intervention Grounded in Clinical Guidelines**|Junwei Wu et.al.|[2602.18650](http://arxiv.org/abs/2602.18650)|
 |**2026-02-20**|**HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation**|Lei Xin et.al.|[2602.18283](http://arxiv.org/abs/2602.18283)|
 |**2026-02-20**|**Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering**|Jiayi Wu et.al.|[2602.18249](http://arxiv.org/abs/2602.18249)|
