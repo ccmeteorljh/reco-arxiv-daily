@@ -1,11 +1,13 @@
 ## Daily New Papers
 
-> Updated on 2026.03.11
+> Updated on 2026.03.12
 
 ## Recommender System
 
 |Publish Date|Title|Tag|Authors|PDF|
 |---|---|---|---|---|
+|**2026-03-10**|**RecThinker: An Agentic Framework for Tool-Augmented Reasoning in Recommendation**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Haobo Zhang et.al.|[2603.09843](http://arxiv.org/abs/2603.09843)|
+|**2026-03-09**|**PathoScribe: Transforming Pathology Data into a Living Library with a Unified LLM-Driven Framework for Semantic Retrieval and Clinical Integration**|<img src="https://img.shields.io/badge/-LLM-2c4a78?style=flat-square&color=%232c4a78" width="56" alt="LLM" />|Abdul Rehman Akbar et.al.|[2603.08935](http://arxiv.org/abs/2603.08935)|
 |**2026-03-09**|**ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Pierre Lubitzsch et.al.|[2603.08341](http://arxiv.org/abs/2603.08341)|
 |**2026-03-08**|**Verifiable Reasoning for LLM-based Generative Recommendation**|<img src="https://img.shields.io/badge/-GR-1e5c3a?style=flat-square&color=%231e5c3a" width="56" alt="GR" />|Xinyu Lin et.al.|[2603.07725](http://arxiv.org/abs/2603.07725)|
 |**2026-03-08**|**Deep Research for Recommender Systems**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Kesha Ou et.al.|[2603.07605](http://arxiv.org/abs/2603.07605)|
@@ -104,6 +106,4 @@
 |**2026-02-16**|**Adaptive Autoguidance for Item-Side Fairness in Diffusion Recommender Systems**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Zihan Li et.al.|[2602.14706](http://arxiv.org/abs/2602.14706)|
 |**2026-02-16**|**High Precision Audience Expansion via Extreme Classification in a Two-Sided Marketplace**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Dillon Davis et.al.|[2602.14358](http://arxiv.org/abs/2602.14358)|
 |**2026-02-15**|**MixFormer: Co-Scaling Up Dense and Sequence in Industrial Recommenders**|<img src="https://img.shields.io/badge/-Scaling-8b5a3c?style=flat-square&color=%238b5a3c" width="200" alt="Scaling" />|Xu Huang et.al.|[2602.14110](http://arxiv.org/abs/2602.14110)|
-|**2026-02-15**|**DAIAN: Deep Adaptive Intent-Aware Network for CTR Prediction in Trigger-Induced Recommendation**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Zhihao Lv et.al.|[2602.13971](http://arxiv.org/abs/2602.13971)|
-|**2026-02-14**|**Agentic Assistant for 6G: Turn-based Conversations for AI-RAN Hierarchical Co-Management**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Udhaya Srinivasan et.al.|[2602.13868](http://arxiv.org/abs/2602.13868)|
 

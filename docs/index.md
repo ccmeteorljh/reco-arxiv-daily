@@ -2,14 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.03.11
+## Updated on 2026.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommender System
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-10**|**RecThinker: An Agentic Framework for Tool-Augmented Reasoning in Recommendation**|Haobo Zhang et.al.|[2603.09843](http://arxiv.org/abs/2603.09843)|
 |**2026-03-09**|**ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems**|Pierre Lubitzsch et.al.|[2603.08341](http://arxiv.org/abs/2603.08341)|
+|**2026-03-09**|**PathoScribe: Transforming Pathology Data into a Living Library with a Unified LLM-Driven Framework for Semantic Retrieval and Clinical Integration**|Abdul Rehman Akbar et.al.|[2603.08935](http://arxiv.org/abs/2603.08935)|
 |**2026-03-08**|**Verifiable Reasoning for LLM-based Generative Recommendation**|Xinyu Lin et.al.|[2603.07725](http://arxiv.org/abs/2603.07725)|
 |**2026-03-08**|**Deep Research for Recommender Systems**|Kesha Ou et.al.|[2603.07605](http://arxiv.org/abs/2603.07605)|
 |**2026-03-07**|**Efficient Personalized Reranking with Semi-Autoregressive Generation and Online Knowledge Distillation**|Kai Cheng et.al.|[2603.07107](http://arxiv.org/abs/2603.07107)|
