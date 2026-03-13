@@ -1,4 +1,4 @@
-## Updated on 2026.03.12
+## Updated on 2026.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ### 📊 Paper distribution by tag
@@ -16,14 +16,14 @@
 }}}%%
 pie showData
 title Paper Distribution by Tag
-  "Other" : 590
-  "LLM" : 193
-  "GR" : 151
+  "Other" : 595
+  "LLM" : 194
+  "GR" : 152
   "Seq" : 92
   "Scaling" : 18
 ```
 
-> 统计自 **2025-07-16** 起，共计 **1044** 篇论文。
+> 统计自 **2025-07-16** 起，共计 **1051** 篇论文。
 
 <details style="margin: 1em 0; padding: 0.75em 1em; border: 1px solid #d8dee4; border-radius: 8px; background: #f6f8fa;">
   <summary style="cursor: pointer; font-weight: 600; font-size: 1.05em; color: #1f2328; padding: 0.25em 0;">📑 Table of Contents</summary>
@@ -36,9 +36,17 @@ title Paper Distribution by Tag
 
 |Publish Date|Title|Tag|Authors|PDF|
 |---|---|---|---|---|
+|**2026-03-12**|**OneRanker: Unified Generation and Ranking with One Model in Industrial Advertising Recommendation**|<img src="https://img.shields.io/badge/-GR-1e5c3a?style=flat-square&color=%231e5c3a" width="56" alt="GR" />|Dekai Sun et.al.|[2603.02999](http://arxiv.org/abs/2603.02999)|
+|**2026-03-12**|**Enhancing Music Recommendation with User Mood Input**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Terence Zeng et.al.|[2603.11796](http://arxiv.org/abs/2603.11796)|
+|**2026-03-12**|**Federated Learning and Unlearning for Recommendation with Personalized Data Sharing**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Liang Qu et.al.|[2603.11610](http://arxiv.org/abs/2603.11610)|
+|**2026-03-12**|**Quantized Inference for OneRec-V2**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Yi Su et.al.|[2603.11486](http://arxiv.org/abs/2603.11486)|
+|**2026-03-11**|**PathoScribe: Transforming Pathology Data into a Living Library with a Unified LLM-Driven Framework for Semantic Retrieval and Clinical Integration**|<img src="https://img.shields.io/badge/-LLM-2c4a78?style=flat-square&color=%232c4a78" width="56" alt="LLM" />|Abdul Rehman Akbar et.al.|[2603.08935](http://arxiv.org/abs/2603.08935)|
+|**2026-03-11**|**LLMGreenRec: LLM-Based Multi-Agent Recommender System for Sustainable E-Commerce**|<img src="https://img.shields.io/badge/-LLM-2c4a78?style=flat-square&color=%232c4a78" width="56" alt="LLM" />|Hao N. Nguyen et.al.|[2603.11025](http://arxiv.org/abs/2603.11025)|
+|**2026-03-11**|**Breaking User-Centric Agency: A Tri-Party Framework for Agent-Based Recommendation**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Yaxin Gong et.al.|[2603.10673](http://arxiv.org/abs/2603.10673)|
+|**2026-03-11**|**Modeling Stage-wise Evolution of User Interests for News Recommendation**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Zhiyong Cheng et.al.|[2603.10471](http://arxiv.org/abs/2603.10471)|
+|**2026-03-11**|**Beyond Interleaving: Causal Attention Reformulations for Generative Recommender Systems**|<img src="https://img.shields.io/badge/-GR-1e5c3a?style=flat-square&color=%231e5c3a" width="56" alt="GR" />|Hailing Cheng et.al.|[2603.10369](http://arxiv.org/abs/2603.10369)|
 |**2026-03-10**|**RecThinker: An Agentic Framework for Tool-Augmented Reasoning in Recommendation**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Haobo Zhang et.al.|[2603.09843](http://arxiv.org/abs/2603.09843)|
 |**2026-03-09**|**ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Pierre Lubitzsch et.al.|[2603.08341](http://arxiv.org/abs/2603.08341)|
-|**2026-03-09**|**PathoScribe: Transforming Pathology Data into a Living Library with a Unified LLM-Driven Framework for Semantic Retrieval and Clinical Integration**|<img src="https://img.shields.io/badge/-LLM-2c4a78?style=flat-square&color=%232c4a78" width="56" alt="LLM" />|Abdul Rehman Akbar et.al.|[2603.08935](http://arxiv.org/abs/2603.08935)|
 |**2026-03-08**|**Verifiable Reasoning for LLM-based Generative Recommendation**|<img src="https://img.shields.io/badge/-GR-1e5c3a?style=flat-square&color=%231e5c3a" width="56" alt="GR" />|Xinyu Lin et.al.|[2603.07725](http://arxiv.org/abs/2603.07725)|
 |**2026-03-08**|**Deep Research for Recommender Systems**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Kesha Ou et.al.|[2603.07605](http://arxiv.org/abs/2603.07605)|
 |**2026-03-07**|**Efficient Personalized Reranking with Semi-Autoregressive Generation and Online Knowledge Distillation**|<img src="https://img.shields.io/badge/-GR-1e5c3a?style=flat-square&color=%231e5c3a" width="56" alt="GR" />|Kai Cheng et.al.|[2603.07107](http://arxiv.org/abs/2603.07107)|
@@ -49,7 +57,6 @@ title Paper Distribution by Tag
 |**2026-03-05**|**Debiasing Sequential Recommendation with Time-aware Inverse Propensity Scoring**|<img src="https://img.shields.io/badge/-Seq-5a4a6a?style=flat-square&color=%235a4a6a" width="56" alt="Seq" />|Sirui Huang et.al.|[2603.04986](http://arxiv.org/abs/2603.04986)|
 |**2026-03-05**|**The DSA's Blind Spot: Algorithmic Audit of Advertising and Minor Profiling on TikTok**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Sara Solarova et.al.|[2603.05653](http://arxiv.org/abs/2603.05653)|
 |**2026-03-04**|**Generative Recommendation for Large-Scale Advertising**|<img src="https://img.shields.io/badge/-GR-1e5c3a?style=flat-square&color=%231e5c3a" width="56" alt="GR" />|Ben Xue et.al.|[2602.22732](http://arxiv.org/abs/2602.22732)|
-|**2026-03-04**|**OneRanker: Unified Generation and Ranking with One Model in Industrial Advertising Recommendation**|<img src="https://img.shields.io/badge/-GR-1e5c3a?style=flat-square&color=%231e5c3a" width="56" alt="GR" />|Dekai Sun et.al.|[2603.02999](http://arxiv.org/abs/2603.02999)|
 |**2026-03-04**|**Turning Trust to Transactions: Tracking Affiliate Marketing and FTC Compliance in YouTube's Influencer Economy**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Chen Sun et.al.|[2603.04383](http://arxiv.org/abs/2603.04383)|
 |**2026-03-04**|**CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation**|<img src="https://img.shields.io/badge/-Seq-5a4a6a?style=flat-square&color=%235a4a6a" width="56" alt="Seq" />|Jinfeng Xu et.al.|[2603.04320](http://arxiv.org/abs/2603.04320)|
 |**2026-03-04**|**SORT: A Systematically Optimized Ranking Transformer for Industrial-scale Recommenders**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Chunqi Wang et.al.|[2603.03988](http://arxiv.org/abs/2603.03988)|
@@ -1081,7 +1088,7 @@ title Paper Distribution by Tag
 |**2025-07-16**|**Looking for Fairness in Recommender Systems**|<img src="https://img.shields.io/badge/-Other-5a5a5a?style=flat-square&color=%235a5a5a" width="120" alt="Other" />|Cécile Logé et.al.|[2507.12242](http://arxiv.org/abs/2507.12242)|
 |**2025-07-16**|**Similarity-Guided Diffusion for Contrastive Sequential Recommendation**|<img src="https://img.shields.io/badge/-Seq-5a4a6a?style=flat-square&color=%235a4a6a" width="56" alt="Seq" />|Jinkyeong Choi et.al.|[2507.11866](http://arxiv.org/abs/2507.11866)|
 
-<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260314>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/ShawnBIT/reco-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/ShawnBIT/reco-arxiv-daily/graphs/contributors

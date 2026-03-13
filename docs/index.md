@@ -2,16 +2,24 @@
 layout: default
 ---
 
-## Updated on 2026.03.12
+## Updated on 2026.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommender System
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-12**|**OneRanker: Unified Generation and Ranking with One Model in Industrial Advertising Recommendation**|Dekai Sun et.al.|[2603.02999](http://arxiv.org/abs/2603.02999)|
+|**2026-03-12**|**Enhancing Music Recommendation with User Mood Input**|Terence Zeng et.al.|[2603.11796](http://arxiv.org/abs/2603.11796)|
+|**2026-03-12**|**Federated Learning and Unlearning for Recommendation with Personalized Data Sharing**|Liang Qu et.al.|[2603.11610](http://arxiv.org/abs/2603.11610)|
+|**2026-03-12**|**Quantized Inference for OneRec-V2**|Yi Su et.al.|[2603.11486](http://arxiv.org/abs/2603.11486)|
+|**2026-03-11**|**PathoScribe: Transforming Pathology Data into a Living Library with a Unified LLM-Driven Framework for Semantic Retrieval and Clinical Integration**|Abdul Rehman Akbar et.al.|[2603.08935](http://arxiv.org/abs/2603.08935)|
+|**2026-03-11**|**LLMGreenRec: LLM-Based Multi-Agent Recommender System for Sustainable E-Commerce**|Hao N. Nguyen et.al.|[2603.11025](http://arxiv.org/abs/2603.11025)|
+|**2026-03-11**|**Breaking User-Centric Agency: A Tri-Party Framework for Agent-Based Recommendation**|Yaxin Gong et.al.|[2603.10673](http://arxiv.org/abs/2603.10673)|
+|**2026-03-11**|**Modeling Stage-wise Evolution of User Interests for News Recommendation**|Zhiyong Cheng et.al.|[2603.10471](http://arxiv.org/abs/2603.10471)|
+|**2026-03-11**|**Beyond Interleaving: Causal Attention Reformulations for Generative Recommender Systems**|Hailing Cheng et.al.|[2603.10369](http://arxiv.org/abs/2603.10369)|
 |**2026-03-10**|**RecThinker: An Agentic Framework for Tool-Augmented Reasoning in Recommendation**|Haobo Zhang et.al.|[2603.09843](http://arxiv.org/abs/2603.09843)|
 |**2026-03-09**|**ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems**|Pierre Lubitzsch et.al.|[2603.08341](http://arxiv.org/abs/2603.08341)|
-|**2026-03-09**|**PathoScribe: Transforming Pathology Data into a Living Library with a Unified LLM-Driven Framework for Semantic Retrieval and Clinical Integration**|Abdul Rehman Akbar et.al.|[2603.08935](http://arxiv.org/abs/2603.08935)|
 |**2026-03-08**|**Verifiable Reasoning for LLM-based Generative Recommendation**|Xinyu Lin et.al.|[2603.07725](http://arxiv.org/abs/2603.07725)|
 |**2026-03-08**|**Deep Research for Recommender Systems**|Kesha Ou et.al.|[2603.07605](http://arxiv.org/abs/2603.07605)|
 |**2026-03-07**|**Efficient Personalized Reranking with Semi-Autoregressive Generation and Online Knowledge Distillation**|Kai Cheng et.al.|[2603.07107](http://arxiv.org/abs/2603.07107)|
@@ -22,7 +30,6 @@ layout: default
 |**2026-03-05**|**Debiasing Sequential Recommendation with Time-aware Inverse Propensity Scoring**|Sirui Huang et.al.|[2603.04986](http://arxiv.org/abs/2603.04986)|
 |**2026-03-05**|**The DSA's Blind Spot: Algorithmic Audit of Advertising and Minor Profiling on TikTok**|Sara Solarova et.al.|[2603.05653](http://arxiv.org/abs/2603.05653)|
 |**2026-03-04**|**Generative Recommendation for Large-Scale Advertising**|Ben Xue et.al.|[2602.22732](http://arxiv.org/abs/2602.22732)|
-|**2026-03-04**|**OneRanker: Unified Generation and Ranking with One Model in Industrial Advertising Recommendation**|Dekai Sun et.al.|[2603.02999](http://arxiv.org/abs/2603.02999)|
 |**2026-03-04**|**Turning Trust to Transactions: Tracking Affiliate Marketing and FTC Compliance in YouTube's Influencer Economy**|Chen Sun et.al.|[2603.04383](http://arxiv.org/abs/2603.04383)|
 |**2026-03-04**|**CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation**|Jinfeng Xu et.al.|[2603.04320](http://arxiv.org/abs/2603.04320)|
 |**2026-03-04**|**SORT: A Systematically Optimized Ranking Transformer for Industrial-scale Recommenders**|Chunqi Wang et.al.|[2603.03988](http://arxiv.org/abs/2603.03988)|

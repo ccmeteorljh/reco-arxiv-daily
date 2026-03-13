@@ -1,4 +1,4 @@
-## Updated on 2026.03.12
+## Updated on 2026.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details style="margin: 1em 0; padding: 0.75em 1em; border: 1px solid #d8dee4; border-radius: 8px; background: #f6f8fa;">
@@ -15,10 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-12**|**OneRanker: Unified Generation and Ranking with One Model in Industrial Advertising Recommendation**|Dekai Sun et.al.|[2603.02999](http://arxiv.org/abs/2603.02999)|
+|**2026-03-11**|**Beyond Interleaving: Causal Attention Reformulations for Generative Recommender Systems**|Hailing Cheng et.al.|[2603.10369](http://arxiv.org/abs/2603.10369)|
 |**2026-03-08**|**Verifiable Reasoning for LLM-based Generative Recommendation**|Xinyu Lin et.al.|[2603.07725](http://arxiv.org/abs/2603.07725)|
 |**2026-03-07**|**Efficient Personalized Reranking with Semi-Autoregressive Generation and Online Knowledge Distillation**|Kai Cheng et.al.|[2603.07107](http://arxiv.org/abs/2603.07107)|
 |**2026-03-04**|**Generative Recommendation for Large-Scale Advertising**|Ben Xue et.al.|[2602.22732](http://arxiv.org/abs/2602.22732)|
-|**2026-03-04**|**OneRanker: Unified Generation and Ranking with One Model in Industrial Advertising Recommendation**|Dekai Sun et.al.|[2603.02999](http://arxiv.org/abs/2603.02999)|
 |**2026-03-03**|**APAO: Adaptive Prefix-Aware Optimization for Generative Recommendation**|Yuanqing Yu et.al.|[2603.02730](http://arxiv.org/abs/2603.02730)|
 |**2026-03-01**|**Beyond the Flat Sequence: Hierarchical and Preference-Aware Generative Recommendations**|Zerui Chen et.al.|[2603.00980](http://arxiv.org/abs/2603.00980)|
 |**2026-02-28**|**SODA: Semantic-Oriented Distributional Alignment for Generative Recommendation**|Ziqi Xue et.al.|[2603.00700](http://arxiv.org/abs/2603.00700)|
@@ -167,14 +168,15 @@
 |**2025-07-21**|**GREAT: Guiding Query Generation with a Trie for Recommending Related Search about Video at Kuaishou**|Ninglu Shao et.al.|[2507.15267](http://arxiv.org/abs/2507.15267)|
 |**2025-07-19**|**GRACE: Generative Recommendation via Journey-Aware Sparse Attention on Chain-of-Thought Tokenization**|Luyi Ma et.al.|[2507.14758](http://arxiv.org/abs/2507.14758)|
 
-<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260314>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-11**|**PathoScribe: Transforming Pathology Data into a Living Library with a Unified LLM-Driven Framework for Semantic Retrieval and Clinical Integration**|Abdul Rehman Akbar et.al.|[2603.08935](http://arxiv.org/abs/2603.08935)|
+|**2026-03-11**|**LLMGreenRec: LLM-Based Multi-Agent Recommender System for Sustainable E-Commerce**|Hao N. Nguyen et.al.|[2603.11025](http://arxiv.org/abs/2603.11025)|
 |**2026-03-10**|**RecThinker: An Agentic Framework for Tool-Augmented Reasoning in Recommendation**|Haobo Zhang et.al.|[2603.09843](http://arxiv.org/abs/2603.09843)|
-|**2026-03-09**|**PathoScribe: Transforming Pathology Data into a Living Library with a Unified LLM-Driven Framework for Semantic Retrieval and Clinical Integration**|Abdul Rehman Akbar et.al.|[2603.08935](http://arxiv.org/abs/2603.08935)|
 |**2026-03-08**|**Verifiable Reasoning for LLM-based Generative Recommendation**|Xinyu Lin et.al.|[2603.07725](http://arxiv.org/abs/2603.07725)|
 |**2026-03-06**|**MLLMRec-R1: Incentivizing Reasoning Capability in Large Language Models for Multimodal Sequential Recommendation**|Yu Wang et.al.|[2603.06243](http://arxiv.org/abs/2603.06243)|
 |**2026-03-06**|**Balancing Domestic and Global Perspectives: Evaluating Dual-Calibration and LLM-Generated Nudges for Diverse News Recommendation**|Ruixuan Sun et.al.|[2603.05780](http://arxiv.org/abs/2603.05780)|
@@ -398,7 +400,7 @@
 |**2025-07-18**|**Consistent Explainers or Unreliable Narrators? Understanding LLM-generated Group Recommendations**|Cedric Waterschoot et.al.|[2507.13705](http://arxiv.org/abs/2507.13705)|
 |**2025-07-17**|**Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation**|Genki Kusano et.al.|[2507.13525](http://arxiv.org/abs/2507.13525)|
 
-<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260314>back to top</a>)</p>
 
 ## Scaling
 
@@ -429,7 +431,7 @@
 |**2025-08-06**|**Realizing Scaling Laws in Recommender Systems: A Foundation-Expert Paradigm for Hyperscale Model Deployment**|Dai Li et.al.|[2508.02929](http://arxiv.org/abs/2508.02929)|
 |**2025-07-26**|**RankMixer: Scaling Up Ranking Models in Industrial Recommenders**|Jie Zhu et.al.|[2507.15551](http://arxiv.org/abs/2507.15551)|
 
-<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260314>back to top</a>)</p>
 
 ## Sequence / Sequential
 
@@ -564,7 +566,7 @@
 |**2025-07-18**|**DUALRec: A Hybrid Sequential and Language Model Framework for Context-Aware Movie Recommendation**|Yitong Li et.al.|[2507.13957](http://arxiv.org/abs/2507.13957)|
 |**2025-07-16**|**Similarity-Guided Diffusion for Contrastive Sequential Recommendation**|Jinkyeong Choi et.al.|[2507.11866](http://arxiv.org/abs/2507.11866)|
 
-<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260314>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/ShawnBIT/reco-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/ShawnBIT/reco-arxiv-daily/graphs/contributors
